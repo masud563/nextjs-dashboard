@@ -39,6 +39,7 @@ export default function Page() {
             width={560}
             height={620}
             className='md:hidden'
+            alt='screenshot'
           />
         </div>
       </div>
